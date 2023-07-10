@@ -58,7 +58,7 @@ I'm a Computer Vision Engineer with a passion for creating innovative and effect
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200px"/>
 
-<p align="left">Advanced deep learning techniques for computer vision<br>Containerization<br>Cloud computing in AWS<br>Edge computing and deploying ML models on embedded devices<br>Game development<br>Music theory<br>History of Philosophy</p>
+<p align="left">Natural language processing and LLMs<br><p align="left">Advanced deep learning techniques for computer vision<br>Containerization<br>Cloud computing in AWS<br>Edge computing and deploying ML models on embedded devices<br>Game development<br>Music theory<br>History of Philosophy</p>
 
 ###
 
